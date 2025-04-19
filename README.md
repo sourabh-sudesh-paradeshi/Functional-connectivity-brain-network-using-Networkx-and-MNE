@@ -1,5 +1,9 @@
-Brain Connectivity Network Analysis
+## Brain Connectivity Network Analysis
 This project provides a general pipeline to compute and analyze brain connectivity networks using Python libraries such as NetworkX, MNE, and NumPy. It was developed as part of my research internship, during which I explored literature on the application of graph theory in understanding brain networks.
+
+#### Demo: functional_connectivity_alpha_band.ipynb
+📌 This notebook demonstrates alpha band brain network analysis using MNE and NetworkX.
+Easily extend it to other bands by changing frequency parameters in preprocessing.
 
 The repository includes:
 
